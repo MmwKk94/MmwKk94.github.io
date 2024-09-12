@@ -9,7 +9,7 @@ My research focuses on federated learning and decentralized optimization, areas 
 
 Contact
 ======
-jzk0195@auburn.edu
+jzk0195 at auburn dot edu
 
 
 Skills
