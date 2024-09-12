@@ -7,6 +7,9 @@ paginate: 5
 permalink: pretty
 cover_image: /IMG_8809.jpeg
 
+arxiv            : # URL - Update with the correct link to your profile
+googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+
 # Gems
 plugins:
   - jekyll-gist
@@ -29,14 +32,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
-  card: summary
-logo: logo.png
+  username: # vszhub
+  card: # summary
+logo: # logo.png
 social:
-  name: Songzi Vong
+  name: # Songzi Vong
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    # - https://twitter.com/vszhub
+    # - https://github.com/vszhub
 google_site_verification: xxxxx
 lang: en
 
