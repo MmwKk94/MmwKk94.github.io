@@ -7,3 +7,11 @@ I’m Jun Kong, a Ph.D. student in Electrical and Computer Engineering at Auburn
 
 My research focuses on federated learning and decentralized optimization, areas that bridge the gap between data privacy and efficient large-scale machine learning. I am passionate about exploring how these technologies can be leveraged to advance the future of collaborative and secure computing.
 
+Contact
+======
+jzk0195@auburn.edu
+
+
+Skills
+======
+Python, R, mySQL, PowerBI, Tableau
